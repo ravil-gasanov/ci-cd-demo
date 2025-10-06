@@ -3,5 +3,4 @@ def add(a: int, b: int):
 
 
 def substract(a: int, b: int):
-    # intentional bug
-    return a + b
+    return a - b
